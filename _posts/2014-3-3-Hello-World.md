@@ -1,7 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: 我的第一篇博客
 ---
+github果然强大！
+一直找不到一个合适的写技术博客的地方，直到遇到github pages！
+就把这段文字作为我的第一篇博客吧！
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
