@@ -10,5 +10,4 @@ github果然强大！
 接下来，可以通过修改配置文件_config.yml来对自己的博客进行简单的定制。
 
 参考
-
-[1] jekyll now. https://github.com/barryclark/jekyll-now
+- [jekyll now](https://github.com/barryclark/jekyll-now).
