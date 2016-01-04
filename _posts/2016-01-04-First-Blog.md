@@ -6,8 +6,7 @@ github果然强大！
 一直找不到一个合适的写技术博客的地方，直到遇到github pages！
 就把这段文字作为我的第一篇博客吧！
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+接下来，可以通过修改配置文件_config.yml来对自己的博客进行简单的定制。
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+参考
+[1] jekyll now. https://github.com/barryclark/jekyll-now
